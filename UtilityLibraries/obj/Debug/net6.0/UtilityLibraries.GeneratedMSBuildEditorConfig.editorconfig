@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UtilityLibraries
+build_property.ProjectDir = C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\
