@@ -1,0 +1,11 @@
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\bin\Debug\net6.0\UtilityLibraries.deps.json
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\bin\Debug\net6.0\UtilityLibraries.dll
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\bin\Debug\net6.0\UtilityLibraries.pdb
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\obj\Debug\net6.0\UtilityLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\obj\Debug\net6.0\UtilityLibraries.AssemblyInfoInputs.cache
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\obj\Debug\net6.0\UtilityLibraries.AssemblyInfo.cs
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\obj\Debug\net6.0\UtilityLibraries.csproj.CoreCompileInputs.cache
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\obj\Debug\net6.0\UtilityLibraries.dll
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\obj\Debug\net6.0\refint\UtilityLibraries.dll
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\obj\Debug\net6.0\UtilityLibraries.pdb
+C:\Users\CEL\Documents\Centennial\4Semester\COMP367_001_2024W_DevOps Implementation_SEC_001\Labs\Lab4\git\code\ClassLibraryProjects\UtilityLibraries\obj\Debug\net6.0\ref\UtilityLibraries.dll
